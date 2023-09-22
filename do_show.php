@@ -48,8 +48,8 @@
 
     <?php
         $hostname = "localhost";
-        $username = "admin";
-        $password = "Passw0rd";
+        $username = "root";
+        $password = "";
         $db = "mynet_test";
 
         $dbconnect = mysqli_connect($hostname, $username, $password, $db);

@@ -1,3 +1,13 @@
+<?php
+    include("header.html");
+?>
+
+<?php
+    include("database_connection.php");
+
+    //mysqli_close($conn);
+?>
+
 <!DOCTYPE html>
 <html>
 <html lang="de">
